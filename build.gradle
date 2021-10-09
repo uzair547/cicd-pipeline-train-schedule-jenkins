@@ -1,3 +1,4 @@
+# adding build
 plugins {
   //inlude the nodeJS plugin to execute nodejs and npm tasks
   id "com.moowork.node" version "1.2.0"
